@@ -1,8 +1,8 @@
 # Sentiment-Analysis-and-emotion-detection-using-ML-DL
- NLPiffy - a natural language processing platform \n
- VADER - Valence  Aware  Dictionary   for   Sentiment Reasoning
- RoBERTa - Robustly Optimized BERT pre-training Approach
- Requirements
+ NLPiffy - a natural language processing platform ,
+ VADER - Valence  Aware  Dictionary   for   Sentiment Reasoning ,
+ RoBERTa - Robustly Optimized BERT pre-training Approach ,
+ Requirements : 
    •	NLTK
    •	Tensor flow
    •	Tkinter
