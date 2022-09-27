@@ -1,2 +1,21 @@
 # Sentiment-Analysis-and-emotion-detection-using-ML-DL
-Sentiment Analysis aims to detect positive, neutral, or negative feelings from text. whereas, Emotion Analysis aims to detect and recognize types of feelings through the expression of texts, such as anger, disgust, fear, happiness, sadness, and surprise.
+NLPiffy - a natural language processing platform
+VADER - Valence  Aware  Dictionary   for   Sentiment Reasoning
+RoBERTa - Robustly Optimized BERT pre-training Approach
+Requirements
+ •	NLTK
+ •	Tensor flow
+ •	Tkinter
+ •	Collections
+ •	Matplotlib
+ •	Seaborn
+ •	Corpora
+ •	word cloud
+ •	Pytorch
+ •	Scipy
+ •	Transformers
+ •	Pipelines
+ •	Pandas
+ •	Numpy
+
+
